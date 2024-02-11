@@ -1,6 +1,6 @@
 ### Hey, I'm Arthur 👋🏽  
 
-I'm a 19-year-old developer based in Russia, and I'm passionate about crafting digital experiences. 
+I'm a 18-year-old developer based in Russia, and I'm passionate about crafting digital experiences. 
  
 ## 📦 Toolbox
 
@@ -17,5 +17,6 @@ I'm a 19-year-old developer based in Russia, and I'm passionate about crafting d
 ## 📫 Contact
 
 [Instagram](https://www.instagram.com/arc.mrx/)
-[VK](https://vk.com/arcmrx/). 
+
+[VK](https://vk.com/arcmrx/)
  
