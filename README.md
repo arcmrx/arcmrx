@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hey, I'm Arthur 👋🏽  
 
-<!--
-**arcmrx/arcmrx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 19-year-old developer based in Russia, and I'm passionate about crafting digital experiences. 
+ 
+## 📦 Toolbox
 
-Here are some ideas to get you started:
+**Development:** `C++` `Python` `POSIX` `HTML` `LaTex` 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Version Control:** `Git` `GitLab`
+
+## ✨ Fun Facts 
+
+- THE GENTLEMEN is my favorite film.
+- As a kid, I wanted to be an racer.
+- I love using Mac after switching from Windows.
+
+## 📫 Contact
+
+[Instagram](https://www.instagram.com/arc.mrx/)
+[VK](https://vk.com/arcmrx/). 
+ 
