@@ -17,6 +17,5 @@ I'm a 18-year-old developer based in Russia, and I'm passionate about crafting d
 ## 📫 Contact
 
 [Instagram](https://www.instagram.com/arc.mrx/)
-
 [VK](https://vk.com/arcmrx/)
  
