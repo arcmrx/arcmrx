@@ -8,7 +8,7 @@ I'm a 18-year-old developer based in Russia, and I'm passionate about crafting d
 
 **Version Control:** `Git` `GitLab`
 
-**OS:** `Mac` `Windows`
+**OS:** `Mac` `Windows` `UNIX`
 
 ## ✨ Fun Facts 
 
