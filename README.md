@@ -4,7 +4,7 @@ I'm a 18-year-old developer based in Russia, and I'm passionate about crafting d
  
 ## 📦 Toolbox
 
-**Development:** `C++` `Python` `POSIX` `HTML` `LaTex` 
+**Development:** `C++` `Python`
 
 **Version Control:** `Git` `GitLab`
 
