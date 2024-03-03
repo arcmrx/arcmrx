@@ -8,6 +8,8 @@ I'm a 18-year-old developer based in Russia, and I'm passionate about crafting d
 
 **Version Control:** `Git` `GitLab`
 
+**OS:** `Windows` `Mac`
+
 ## ✨ Fun Facts 
 
 - THE GENTLEMEN is my favorite film.
