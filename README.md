@@ -20,6 +20,4 @@ I'm a 18-year-old developer based in Russia, and I'm passionate about crafting d
 
 - [Telegram](https://t.me/arc_mrx)
 - [Gmail](mailto:arturvolkov44@gmail.com)
-- [VK](https://vk.com/arcmrx/)
-- [Instagram](https://www.instagram.com/arc.mrx/)
  
