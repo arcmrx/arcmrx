@@ -1,14 +1,14 @@
 ### Hey, I'm Arthur 👋🏽  
 
-I'm a 19-year-old developer based in Russia, and I'm passionate about crafting digital experiences. 
+I'm a 20-year-old developer based in Russia, and I'm passionate about crafting digital experiences. 
  
 ## 📦 Toolbox
 
-**Development:** `C++` `Python` `Java` `Kotlin`
+**Development:** `Golang` `C++` `Python` `Java` `Kotlin`
 
 **Version Control:** `Git` `GitLab`
 
-**OS:** `Mac` `Windows`
+**OS:** `macOS` `Linux` `Windows`
 
 ## ✨ Fun Facts 
 
